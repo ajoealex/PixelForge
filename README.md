@@ -57,7 +57,7 @@ Blur requires a rectangular selection. Other filters default to the whole image 
 - Choose **Draw selection** and drag over the image to define a rectangle.
 - Choose **Invert selection** to apply the filter everywhere outside the rectangle and protect its interior.
 - Use the eraser control or **Escape** to clear a selection.
-- Selections persist when applying edits or switching between filters.
+- Selections persist when switching between filters. Applying an effect clears its selection and preview backdrop.
 
 ### Shapes
 
