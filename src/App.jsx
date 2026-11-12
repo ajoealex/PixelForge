@@ -410,10 +410,6 @@ export default function App() {
     });
     const appliedSettings = settings;
     resetControls();
-    if (!isShapes) {
-      setSelection(selection);
-      setSelectingRegion(selectingRegion);
-    }
     if (tool !== "color") setSettings(appliedSettings);
     setChanged(false);
     notify("Looking good. Your changes are applied.");
