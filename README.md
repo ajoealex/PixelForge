@@ -1,5 +1,7 @@
 # PixelForge
 
+[Open the live app](https://ajoealex.github.io/PixelForge/)
+
 An image editor that runs in your browser, built with React, Vite, Tailwind CSS, and p5.js. Application code uses JavaScript and JSX. Image processing and saved history stay on your device.
 
 ## Development
